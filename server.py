@@ -30,7 +30,7 @@ import sys
 import os
 if __name__ == '__main__':
     pass
-data = ""
+
 UDP_PORT_NO = int(sys.argv[1])
 print " the server port is: ", UDP_PORT_NO
 
@@ -51,6 +51,7 @@ while True:
     print addr
     choose = raw_input("(Y/N):")
     if choose == "y" or choose== "Y":
+        data = ""
         while 1:
             datain = connection.recv(1024)
     
