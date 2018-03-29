@@ -57,8 +57,8 @@ while True:
     
             data = data + str(datain)
             print data
-            return_message = "The data has fully been sent"
-            connection.send(return_message)
+    #        return_message = "The data has fully been sent"
+    #        connection.send(return_message)
             if not datain:
                 outfile(data)
     #             serverSock.connect(connection)
