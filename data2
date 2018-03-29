@@ -9,3 +9,7 @@ The question that I am wondering is, how complex can the layering and architectu
 Minute paper seven:
 	In this lecture we started out continuing with the physical layer. We talked about how satellites are able to transmit data around the world. The period in which they are orbiting is proportional to the radius of their obit to the 3/2. This means that the higher up the satellite the longer it takes to orbit the earth. The Geostationary satellites are the highest up and take up to 24 hours to rotate the earth. But because they are so far away from earth they have a larger line of sight than the medium or low earth satellites.  You only need to have 3 satellites to be able to send data around the world. This means that you don’t need to send as many satellites into space in order to get data sent, but the time window that you are able to send that data is going to be smaller because it takes a third of a day for one of those satellites to orbit overhead. This is why it is good that the orbiting satellites, hubs and other ground satellites can communicate with each other.
 	The biggest question on my mind is, how long does these satellites last? When do they need to be replaced because they have broken down so much data can’t be sent clearly anymore? 
+
+to  make it biggere
+
+561864681 681861
