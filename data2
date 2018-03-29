@@ -12,4 +12,7 @@ Minute paper seven:
 
 to  make it biggere
 
-561864681 681861
+Minute Paper eight:
+	The big thing we talked about in class was about line coding. There are many types of line coding but the ones that we talked about were NRZ &NRZI with and without Manchester, and other forms like return to zero. The reason that line coding is so important is because a clock signal needs to be recognized when the data is being received at the end of the line. If the code contains a lot of zeros or ones in a row then it is near impossible to know what the clock is or how many ones or zeros are in that series. The return to zero case can be unique because you are also able to send different levels of ones and zeros. This multileveling means that it will be nicer to send the code. By encrypting the one and zero to -2 1 0 1 2s, as an example, you can easily see when the one or zero changes. With an 8B6T the 8 bit groups that are your code is changed to the 6 multilevel code.
+	The biggest question that I have is how many levels for the multileveling can you get before it gets too big.
+
