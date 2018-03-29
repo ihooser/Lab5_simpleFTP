@@ -50,7 +50,7 @@ while date:
 #         print datain
 #         print "sent all data"
         
-        data_back = clientSock.recv(1024)
+#        data_back = clientSock.recv(1024)
         print data_back
         
         break
