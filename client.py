@@ -13,7 +13,7 @@ import os
 if __name__ == '__main__':
     pass
 
-s=socket.socket (socket.AF_INET, socket.SOCK_DGRAM,0)
+#s=socket.socket (socket.AF_INET, socket.SOCK_DGRAM,0)
 #reading in all the imputs
 serverIP = sys.argv[1]
 serverPort = int(sys.argv[2])
